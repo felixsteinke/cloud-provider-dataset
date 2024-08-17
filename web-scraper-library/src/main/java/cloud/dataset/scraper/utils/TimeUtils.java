@@ -1,6 +1,6 @@
-package cpu.spec.scraper.utils;
+package cloud.dataset.scraper.utils;
 
-import cpu.spec.scraper.factory.LoggerFactory;
+import cloud.dataset.scraper.factory.LoggerFactory;
 
 import java.util.Random;
 import java.util.logging.Logger;

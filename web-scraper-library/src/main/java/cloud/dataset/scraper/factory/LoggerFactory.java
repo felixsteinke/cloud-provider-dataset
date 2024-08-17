@@ -1,4 +1,4 @@
-package cpu.spec.scraper.factory;
+package cloud.dataset.scraper.factory;
 
 import java.util.Date;
 import java.util.logging.*;

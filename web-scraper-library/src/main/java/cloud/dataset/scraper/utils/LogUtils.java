@@ -1,4 +1,4 @@
-package cpu.spec.scraper.utils;
+package cloud.dataset.scraper.utils;
 
 import java.util.List;
 

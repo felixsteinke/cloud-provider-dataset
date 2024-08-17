@@ -1,6 +1,6 @@
-package cpu.spec.scraper.utils;
+package cloud.dataset.scraper.utils;
 
-import cpu.spec.scraper.exception.DirectoryNotFoundException;
+import cloud.dataset.scraper.exception.DirectoryNotFoundException;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package cpu.spec.scraper.factory;
+package cloud.dataset.scraper.factory;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.chrome.ChromeDriver;

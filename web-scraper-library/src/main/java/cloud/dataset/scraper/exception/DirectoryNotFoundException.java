@@ -1,6 +1,6 @@
-package cpu.spec.scraper.exception;
+package cloud.dataset.scraper.exception;
 
-import cpu.spec.scraper.utils.FileUtils;
+import cloud.dataset.scraper.utils.FileUtils;
 
 /**
  * Exception with appropriate message.

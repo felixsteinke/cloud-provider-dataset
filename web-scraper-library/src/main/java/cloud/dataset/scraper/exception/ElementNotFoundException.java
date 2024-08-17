@@ -1,4 +1,4 @@
-package cpu.spec.scraper.exception;
+package cloud.dataset.scraper.exception;
 
 /**
  * Exception with appropriate message.

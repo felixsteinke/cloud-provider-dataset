@@ -1,6 +1,6 @@
-package cpu.spec.scraper.validator;
+package cloud.dataset.scraper.validator;
 
-import cpu.spec.scraper.exception.ElementNotFoundException;
+import cloud.dataset.scraper.exception.ElementNotFoundException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
