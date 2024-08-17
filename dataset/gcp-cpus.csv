@@ -1,0 +1,21 @@
+CpuType,SkuCpu,Machines,SourceUrl
+Ampere Altra,Q64-30,Tau T2A,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Emerald Rapids) 5th generation,Intel® Xeon® Platinum 8581C Processor,C4,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Emerald Rapids) 5th generation,Intel® Xeon® Platinum 8581C Processor,N4,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Sapphire Rapids) 4th generation,Intel® Xeon® Platinum 8490H Processor,X4,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Sapphire Rapids) 4th generation,Intel® Xeon® Platinum 8481C Processor,C3.Z3.H3,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Sapphire Rapids) 4th generation,Intel® Xeon® Platinum 8481C Processor,A3,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Ice Lake) 3rd Generation,Intel® Xeon® Platinum 8373C Processor,N2*.M3,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Cascade Lake) 2nd Generation,Intel® Xeon® Gold 6268CL Processor,N2*,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Cascade Lake) 2nd Generation,Intel® Xeon® Gold 6253CL Processor,C2,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Cascade Lake) 2nd Generation,Intel® Xeon® Platinum 8280L Processor,M2,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Cascade Lake) 2nd Generation,Intel® Xeon® Platinum 8273CL Processor,A2.G2,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon Scalable Processor (Skylake) 1st Generation,Intel® Xeon® Scalable Platinum 8173M Processor,E2.m1-megamem memory-optimized machine types.N1,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon E7 (Broadwell E7),Intel® Xeon® E7-8880V4 Processor,m1-ultramem memory-optimized machine types,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon E5 v4 (Broadwell E5),Intel® Xeon® E5-2696V4 Processor,E2.N1,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon E5 v3 (Haswell),Intel® Xeon® E5-2696V3 Processor,N1,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon E5 v2 (Ivy Bridge),Intel® Xeon® E5-2696V2 Processor,N1,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+Intel Xeon E5 (Sandy Bridge),Intel® Xeon® E5-2689 Processor,N1,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+AMD EPYC Genoa 4th Generation,AMD EPYC™ 9B14,C3D,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+AMD EPYC Milan 3rd Generation,AMD EPYC™ 7B13,E2.Tau T2D.N2D.C2D,https://cloud.google.com/compute/docs/cpu-platforms?hl=en
+AMD EPYC Rome 2nd Generation,AMD EPYC™ 7B12,E2.N2D,https://cloud.google.com/compute/docs/cpu-platforms?hl=en

@@ -1,0 +1,15 @@
+year,cloud_region,campus,location,last_pue,pue_year
+2021,us-east1,Berkeley County,South Carolina,1.09,1.10
+2021,us-east4,Loudoun County,Virginia,1.09,1.10
+2021,us-west1,The Dalles,Oregon,1.11,1.11
+2021,us-west2,Douglas County,Georgia/Los Angeles,1.08,1.09
+2021,us-west4,Henderson,Nevada/Las Vegas,1.10,1.10
+2021,us-south1,Midlothian,Texas/Dallas,1.17,1.17
+2021,asia-east1,Changua County,Taiwan/APAC,1.12,1.12
+2021,us-central1,Council Bluffs,Iowa,1.10,1.12
+2021,europe-west1,St. Ghislain,Belgium,1.08,1.08
+2021,europe-west2,Dublin,Ireland/London,1.09,1.09
+2021,europe-west4,Eemshaven,Netherlands,1.08,1.08
+2021,europe-north1,Hamina,Finland,1.09,1.09
+2021,asia-southeast1,Singapore,Singapore,1.13,1.13
+2021,southamerica-west1,Quilicura,Chile/Santiago,1.10,1.09

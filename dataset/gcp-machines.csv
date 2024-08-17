@@ -1,0 +1,23 @@
+Machine,WorkloadTypes,CpuTypeText,CpuTypes,Architecture,VCpuRange,VCpuDefinition,MemoryRange,MaxLocalSsd,NetworkRange,VCpuCoremarkScore,SourceUrl
+C4,General purpose,Intel Emerald Rapids,Emerald Rapids,x86,2 to 192,Thread,2 to 1.488 GB,0,10 to 100 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+C3,General purpose,Intel Sapphire Rapids,Sapphire Rapids,x86,4 to 176,Thread,8 to 1.408 GB,12,23 to 100 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+C3D,General purpose,AMD EPYC Genoa,EPYC Genoa,x86,4 to 360,Thread,8 to 2.880 GB,12,20 to 100 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+N4,General purpose,Intel Emerald Rapids,Emerald Rapids,x86,2 to 80,Thread,2 to 640 GB,0,10 to 50 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+N2,General purpose,Intel Cascade Lake and Ice Lake,Cascade Lake;Ice Lake,x86,2 to 128,Thread,2 to 864 GB,9,10 to 32 Gbps,1.28,https://cloud.google.com/compute/docs/machine-resource?hl=en
+N2D,General purpose,AMD EPYC Rome and EPYC Milan,EPYC Rome;EPYC Milan,x86,2 to 224,Thread,2 to 896 GB,9,10 to 32 Gbps,1.46,https://cloud.google.com/compute/docs/machine-resource?hl=en
+N1,General purpose,Intel Skylake. Broadwell. Haswell. Sandy Bridge. and Ivy Bridge,Skylake;Broadwell;Haswell;Sandy Bridge;Ivy Bridge,x86,1 to 96,Thread,1.8 to 624 GB,9,2 to 32 Gbps,1.0,https://cloud.google.com/compute/docs/machine-resource?hl=en
+T2D,General purpose,AMD EPYC Milan,EPYC Milan,x86,1 to 60,Core,4 to 240 GB,0,10 to 32 Gbps,2.29,https://cloud.google.com/compute/docs/machine-resource?hl=en
+T2A,General purpose,Ampere Altra,Ampere Altra,Arm,1 to 48,Core,4 to 192 GB,0,10 to 32 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+E2,Cost optimized,Intel Skylake. Broadwell. and Haswell. AMD EPYC Rome and EPYC Milan,Skylake;Broadwell;Haswell;EPYC Rome;EPYC Milan,x86,0.25 to 32,Thread,1 to 128 GB,0,1 to 16 Gbps,1.04,https://cloud.google.com/compute/docs/machine-resource?hl=en
+Z3,Storage optimized,Intel Sapphire Rapids,Sapphire Rapids,x86,88 or 176,Thread,704 or 1.408 GB,36,23 to 100 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+H3,Compute optimized,Intel Sapphire Rapids,Sapphire Rapids,x86,88,Core,352 GB,0,up to 200 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+C2,Compute optimized,Intel Cascade Lake,Cascade Lake,x86,4 to 60,Thread,16 to 240 GB,3,10 to 32 Gbps,1.43,https://cloud.google.com/compute/docs/machine-resource?hl=en
+C2D,Compute optimized,AMD EPYC Milan,EPYC Milan,x86,2 to 112,Thread,4 to 896 GB,3,10 to 32 Gbps,1.5,https://cloud.google.com/compute/docs/machine-resource?hl=en
+X4,Memory optimized,Intel Sapphire Rapids,Sapphire Rapids,x86,960 to 1.920,Thread,16.384 to 32.768 GB,0,up to 100 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+M3,Memory optimized,Intel Ice Lake,Ice Lake,x86,32 to 128,Thread,976 to 3904 GB,3,up to 32 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+M2,Memory optimized,Intel Cascade Lake,Cascade Lake,x86,208 to 416,Thread,5888 to 11776 GB,0,up to 32 Gbps,1.0,https://cloud.google.com/compute/docs/machine-resource?hl=en
+M1,Memory optimized,Intel Skylake and Broadwell,Skylake;Broadwell,x86,40 to 160,Thread,961 to 3844 GB,3,up to 32 Gbps,0.96,https://cloud.google.com/compute/docs/machine-resource?hl=en
+N1+GPU,Accelerator optimized,Intel Skylake. Broadwell. Haswell. Sandy Bridge. and Ivy Bridge,Skylake;Broadwell;Haswell;Sandy Bridge;Ivy Bridge,x86,1 to 96,Thread,3.75 to 624 GB,9,2 to 32 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+A3,Accelerator optimized,Intel Sapphire Rapids,Sapphire Rapids,x86,208,Thread,1872 GB,6,up to 1.800 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+A2,Accelerator optimized,Intel Cascade Lake,Cascade Lake,x86,12 to 96,Thread,85 to 1360 GB,3,24 to 100 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en
+G2,Accelerator optimized,Intel Cascade Lake,Cascade Lake,x86,4 to 96,Thread,16 to 432 GB,3,10 to 100 Gbps,,https://cloud.google.com/compute/docs/machine-resource?hl=en

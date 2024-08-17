@@ -29,10 +29,17 @@
         </dependency>
 
         <dependency>
-            <groupId>cpu.spec</groupId>
+            <groupId>cloud.dataset</groupId>
             <artifactId>web-scraper-library</artifactId>
             <version>1.0</version>
             <scope>compile</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.26</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
@@ -50,7 +57,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>cpu.spec.scraper.GcpScraperApp</mainClass>
+                                    <mainClass>cloud.dataset.scraper.GcpScraperApp</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>

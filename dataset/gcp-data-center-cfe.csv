@@ -1,0 +1,35 @@
+year,cloud_region,location,zone_id,cfe_region,google_cfe
+2021,us-east1,South Carolina,US-CAR-SC,SC,0.25
+2021,us-east4,Northern Virginia,US-MIDA-PJM,PJM,0.64
+2021,us-east5,Columbus,US-MIDA-PJM,PJM,0.64
+2021,us-west1,Oregon,US-NW-BPAT,BPA,0.88
+2021,us-west2,Los Angeles,US-CAL-CISO,CAISO,0.53
+2021,us-west3,Salt Lake City,US-NW-PACE,PACE,0.31
+2021,us-west4,Las Vegas,US-NW-NEVP,NVE,0.21
+2021,us-south1,Dallas,US-TEX-ERCO,ERCOT,0.4
+2021,asia-east1,Taiwan,TW,Taiwan,0.17
+2021,asia-east2,Hong Kong,HK,Hong Kong,0.28
+2021,asia-south1,Mumbai,IN-MH,Maharashtra,0.1
+2021,asia-south2,Delhi,IN-UP,Uttar Pradesh,0.08
+2021,us-central1,Iowa,US-MIDW-MISO,MISO,0.97
+2021,europe-west1,Belgium,BE,Belgium,0.82
+2021,europe-west2,London,GB,Great Britain,0.57
+2021,europe-west3,Frankfurt,DE,Germany,0.6
+2021,europe-west4,Netherlands,NL,Netherlands,0.53
+2021,europe-west6,Zurich,CH,Switzerland,0.85
+2021,europe-west8,Milan,IT,North Italy,
+2021,europe-west9,Paris,FR,France,
+2021,europe-north1,Finland,FI,Finland,0.91
+2021,asia-northeast1,Tokyo,JP-TK,Tokyo,0.16
+2021,asia-northeast2,Osaka,JP-KN,Kansai,0.31
+2021,asia-northeast3,Seoul,KR,South Korea,0.31
+2021,asia-southeast1,Singapore,SG,Singapore,0.04
+2021,asia-southeast2,Jakarta,ID,Indonesia,0.13
+2021,europe-central2,Warsaw,PL,Poland,0.2
+2021,europe-southwest1,Madrid,ES,Spain,
+2021,southamerica-east1,São Paulo,BR-CS,Central Brazil,0.78
+2021,southamerica-west1,Santiago,CL-SEN,Chile,0.69
+2021,australia-southeast1,Sydney,AUS-NSW,New South Wales,0.21
+2021,australia-southeast2,Melbourne,AUS-VIC,Victoria,0.31
+2021,northamerica-northeast1,Montréal,CA-QC,Quebec,1.0
+2021,northamerica-northeast2,Toronto,CA-ON,Ontario,0.92
